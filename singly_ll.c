@@ -214,7 +214,7 @@ int main()
 	InsertFirst(&first,111);
 	InsertFirst(&first,21);
 	InsertFirst(&first,11);
-	InsertLast(&first,51);
+	//InsertLast(&first,51);
 	InsertAtPos(&first,4775,3);
 	DeleteAtPos(&first,3);
 	//DeleteFirst(&first);
